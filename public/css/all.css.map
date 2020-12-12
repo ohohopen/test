@@ -1,0 +1,1 @@
+{"version":3,"sources":["all.scss"],"names":[],"mappings":"AAGA;EACI,sBAAsB,EAAA","file":"all.css","sourcesContent":["@charset \"utf-8\";\r\n\r\n\r\nhtml,body{\r\n    background-color: #ccc;\r\n}\r\n"]}
